@@ -1,0 +1,73 @@
+.contacts-wrapper{
+    width: 500px;
+    background-color: #9A99C7;
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+.filters{
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* vertical-align: middle; */
+}
+.checkbox{
+    border-radius: 50%;
+    background-color: black;
+    border-color: violet;
+    transform: translate(0%, 8%);
+    color: violet;
+    margin-left: 5px;
+}
+.contacts{
+    margin-top: 20px;
+    
+
+}
+.contact{
+    background-color: #DEDEFF;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#search-input{
+    border-radius: 8px;
+    background-color: #DEDEFF;
+    margin: 0 5px;
+    border: none;
+    outline: none;
+    padding: 3px 5px;
+    width: 180px;
+    font-size: 12px;
+}
+#search-input:focus{
+    box-shadow: 0 0 5px rgba(81, 68, 102, 0.699);
+}
+label{
+    /* transform: translate(0%, -7%); */
+    display: flex;
+    align-items: center;
+}
+#undefined-gender-label span{
+    font-size: 12px;
+    /* transform: translate(0%, -7%); */
+    vertical-align: text-top;
+}
+.name{
+    width: 180px;
+}
+.gender{
+    width: 20px;
+}
+.gender img{
+    height: 20px;
+}
+label img{
+    height: 13px;
+}
+label span{
+    transform: translate(0px, -1px);
+}

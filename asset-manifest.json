@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/16-homework/static/css/main.edd2b94f.chunk.css",
+    "main.js": "/16-homework/static/js/main.86b64f9c.chunk.js",
+    "main.js.map": "/16-homework/static/js/main.86b64f9c.chunk.js.map",
+    "runtime-main.js": "/16-homework/static/js/runtime-main.1a516c65.js",
+    "runtime-main.js.map": "/16-homework/static/js/runtime-main.1a516c65.js.map",
+    "static/js/2.487864ae.chunk.js": "/16-homework/static/js/2.487864ae.chunk.js",
+    "static/js/2.487864ae.chunk.js.map": "/16-homework/static/js/2.487864ae.chunk.js.map",
+    "index.html": "/16-homework/index.html",
+    "precache-manifest.75386ff1464b175633bd32abf5944325.js": "/16-homework/precache-manifest.75386ff1464b175633bd32abf5944325.js",
+    "service-worker.js": "/16-homework/service-worker.js",
+    "static/css/main.edd2b94f.chunk.css.map": "/16-homework/static/css/main.edd2b94f.chunk.css.map",
+    "static/js/2.487864ae.chunk.js.LICENSE.txt": "/16-homework/static/js/2.487864ae.chunk.js.LICENSE.txt",
+    "static/media/female.png": "/16-homework/static/media/female.a8023cdf.png",
+    "static/media/male.png": "/16-homework/static/media/male.6d61aca9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a516c65.js",
+    "static/js/2.487864ae.chunk.js",
+    "static/css/main.edd2b94f.chunk.css",
+    "static/js/main.86b64f9c.chunk.js"
+  ]
+}
